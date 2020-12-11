@@ -1,0 +1,14 @@
+.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*		INVOICE		.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
+				Invoice number is: 43855				Date of purchased  :02-02-2018  10:06 PM 
+ Name of Buyer: damoadar  subedi
+
+ Product brought :		phone
+ Number of product:		2
+ given Discount:		100
+ Cost of product		9800
+
+
+				 Total Amount: Rs.9800
+
+
+\.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*		INVOICE		.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*

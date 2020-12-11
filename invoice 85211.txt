@@ -1,0 +1,14 @@
+.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*		INVOICE		.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
+				Invoice number is: 85211				Date of purchased  :02-02-2018  10:20 PM 
+ Name of Buyer: da
+
+ Product brought :		laptop
+ Number of product:		2
+ given Discount:		10
+ Cost of product		159980
+
+
+				 Total Amount: Rs.159980
+
+
+\.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*		INVOICE		.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*

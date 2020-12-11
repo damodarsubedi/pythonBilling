@@ -1,0 +1,19 @@
+.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*		INVOICE		.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
+				Invoice number is: 64356				Date of purchased  :21-01-2018  08:11 AM 
+ Name of Buyer: damodar
+
+ Product brought :		phone
+ Number of product:		2
+ given Discount:		100
+ Cost of product		9800
+
+ Product brought :		laptop
+ Number of product:		1
+ given Discount:		81000
+ Cost of product		-1000
+
+
+				 Total Amount: Rs.8800
+
+
+\.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*		INVOICE		.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*
